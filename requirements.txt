@@ -1,0 +1,19 @@
+# python==3.8 # In colab, do this manually
+click>= 8.0.3
+# cudatoolkit>= 10.2
+faiss-gpu
+# faiss-cpu #installing both gives GpuIndexFlat2 error
+matplotlib>= 3.5.0
+pillow>= 8.4.0
+pretrainedmodels>= 0.7.4
+torch>= 1.10.0
+scikit-image>= 0.18.3
+scikit-learn>= 1.0.1
+scipy>= 1.7.1
+torchvision>= 0.11.1
+tqdm>= 4.62.3
+timm
+# ipython
+# pytorch_lightning
+ipykernel
+pandas

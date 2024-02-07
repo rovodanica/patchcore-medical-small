@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+LabletAnomaly.egg-info/
+data/*
+.tmp.driveupload/*
+.tmp.drivedownload/*
+models/*
+evaluated_results/*
+notebooks/patchcoreenv/*
+results/*
+patchcoreenv/*
