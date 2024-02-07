@@ -2,8 +2,9 @@
 This repo contains a modified version of PatchCore ( https://github.com/amazon-science/patchcore-inspection/tree/fcaa92f124fb1ad74a7acf56726decd4b27cbcad ) applied (but not optimized!) to brain MRI scans. Generating ROC/PR curves, etc., is added. 
 Furthermore, I solve some of the known issues. 
 
-Examples:
-<img src="images/patchcore_brain_seg.png" alt="Segmentation on FastMRI images with PatchCore" width="200">
+Examples:  
+
+<img src="images/patchcore_brain_seg.png" alt="Segmentation on FastMRI images with PatchCore" width="500">
 
 
 This work was run and tested on google colab. To run, please go to notebooks/patchcore_drive.ipynb in colab.
