@@ -1,8 +1,12 @@
 # PatchCore on brain MRIs
 This repo contains a modified version of PatchCore ( https://github.com/amazon-science/patchcore-inspection/tree/fcaa92f124fb1ad74a7acf56726decd4b27cbcad ) applied (but not optimized!) to brain MRI scans. Generating ROC/PR curves, etc., is added. 
+
 Furthermore, I solve some of the known issues. 
+
 This work was run and tested on google colab. To run, please see notebooks/patchcore_drive.ipynb.
+
 Alternatively, some example scripts are provided in sample_evaluation.sh and sample_training.sh to run locally.  
+
 
 This work is the deliverable in the Seminar Unsupervised Anomaly Segmentation for Medical Imaging from compai-lab at the Technical University of Munich. 
 Details of PatchCore in the following --> 
