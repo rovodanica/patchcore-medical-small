@@ -3,9 +3,9 @@ This repo contains a modified version of PatchCore ( https://github.com/amazon-s
 Furthermore, I solve some of the known issues. 
 
 Examples:  
-
-<img src="images/patchcore_brain_seg.png" alt="Segmentation on FastMRI images with PatchCore" width="500">
-
+<div class="center">
+      <img src="images/patchcore_brain_seg.png" alt="Segmentation on FastMRI images with PatchCore" width="500">
+</div>
 
 This work was run and tested on google colab. To run, please go to notebooks/patchcore_drive.ipynb in colab.
 Alternatively, some example scripts are provided in sample_evaluation.sh and sample_training.sh to run locally.  
